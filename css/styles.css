@@ -1,0 +1,9 @@
+.header{
+  background-image: url("../img/enchanted-forest-header.jpg");
+  height: 200px;
+  width: 100%;
+}
+
+#allHeights, #thirtyFour, #thirtySix,#fortyTwo, #fortyEight, #fiftyThree, #underFiftyFour{
+  display: none;
+}
