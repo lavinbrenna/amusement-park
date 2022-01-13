@@ -1,0 +1,27 @@
+no height 
+- haunted house
+
+under 54
+-bumper boats
+
+34 inches
+-bobsled
+
+36 inches
+-ferris wheel
+-frog ride
+-tiny train
+
+42 inches
+-carousel
+-Mondor
+
+48 inches
+-log ride
+
+53 inches
+-bumper cars
+
+prompt age : write prompt function
+
+if height === then show rides available
